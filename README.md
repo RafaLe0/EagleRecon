@@ -14,3 +14,6 @@
 still in dev
 ```
 
+![Rust](https://img.shields.io/badge/rust-stable-orange)
+![License](https://img.shields.io/badge/license-MIT-green)
+![ARM](https://img.shields.io/badge/ARM-Raspberry%20Pi-blue)
